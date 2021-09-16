@@ -1,8 +1,6 @@
-- [docs](docs/)
-- [git与github](git与github.md)
+
 - [git基础](git基础.md)
-- [img](img/)
-- [_coverpage](_coverpage.md)
-- [_media](_media/)
-- [图解Git](图解Git.md)
 - [独自使用Git时的常见场景](独自使用Git时的常见场景.md)
+- [git与github](git与github.md)
+- [图解Git](图解Git.md)
+
