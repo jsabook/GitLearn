@@ -401,6 +401,17 @@ git commit -m 'move readme.md to readme'
 
 ![image-20210914232159538](img/image-20210914232159538.png)
 
+# 删除文件
+
+```
+git rm <file>
+```
+
+这个操作将俩个命令放到一起了
+
++ 删除文件
++ git add .
+
 # 分离头指针
 
 ```
