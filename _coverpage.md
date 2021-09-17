@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="_media/Git-logo.svg" alt="logo" style="width:600px" />
+<img src="_media/Git-logo.svg" alt="logo" style="width:400px" />
 
 
 
